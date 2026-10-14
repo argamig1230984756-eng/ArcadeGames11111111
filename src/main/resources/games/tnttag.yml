@@ -1,0 +1,13 @@
+# TNT Tag settings
+enabled: true
+default-min-players: 2
+default-max-players: 16
+round-seconds: 180
+
+# Timer text is shown in the action bar above the hotbar (not the XP bar).
+timer-format: "&cTNT Tag ends in &f{seconds}s"
+# Tagging requires an empty main hand and empty offhand. No stick is given.
+tagging:
+  bare-hands-only: true
+  fuse-seconds: 20
+  show-tnt-on-head: true
